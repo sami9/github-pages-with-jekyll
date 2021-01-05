@@ -1,3 +1,3 @@
-# Welcome to my blog
+#Bienvenidos a mi blog
 
-I'm glad you are here. I plan to talk about ...
+En este blog vamos abarcar interesantes temas, así que por favor dejen su comentario de los temas que les gustaria que nos enfocaramos. 
